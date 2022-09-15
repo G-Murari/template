@@ -16,21 +16,7 @@
 		font-family: 'Nunito Sans', sans-serif;
 		font-weight: 100;
 	}
-	button{
-		background-color: #1E88E5;
-		border-color: white;
-		outline-width: 1px;
-		color: white;
-		box-shadow: none;
-		font-family: 'Nunito Sans', sans-serif;
-		border-style: solid;
-		padding: 5px;
-		padding-right: 10px;
-		padding-left: 10px;
-		margin-top: 10px;
-		margin-bottom: 2%;
-		border-radius: 5px;
-	}
+	
 			
 	.header3{
 		text-align: center;
@@ -163,6 +149,21 @@
 		.h2{
 		margin-bottom: 30px;
 		}
+		button{
+			background-color: #1E88E5;
+			border-color: white;
+			outline-width: 1px;
+			color: white;
+			box-shadow: none;
+			font-family: 'Nunito Sans', sans-serif;
+			border-style: solid;
+			padding: 5px;
+			padding-right: 10px;
+			padding-left: 10px;
+			margin-top: 10px;
+			margin-bottom: 2%;
+			border-radius: 5px;
+		}
 				
 	}
 	@media(max-width: 1200px){
@@ -230,6 +231,22 @@
 			font-weight: 600;
 			color: black;
 			margin-top: 5%;
+		}
+		button{
+			background-color: #1E88E5;
+			border-color: white;
+			outline-width: 1px;
+			color: white;
+			box-shadow: none;
+			font-family: 'Nunito Sans', sans-serif;
+			border-style: solid;
+			padding: 1px;
+			padding-right: 2px;
+			padding-left: 2px;
+			margin-top: 2px;
+			margin-bottom: 1%;
+			border-radius: 2px;
+			font-size: 2px;
 		}
 	}
 			
